@@ -278,4 +278,4 @@ Built with ❤️ for anime and manga fans
 
 ---
 
-And tested by BeefSchnitzel.
+And tested by the dumb BeefSchnitzel.
